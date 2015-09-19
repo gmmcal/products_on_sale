@@ -1,0 +1,297 @@
+[
+    {
+        "item": "Ar-condicionado de janela Electrolux 7500btus, retirado da caixa somente para tampar a janela",
+        "price": 800.0,
+        "image": "ar.jpg"
+    },
+    {
+        "item": "Batedeira Kitchenaid na cor pistache, ainda na garantia, 110v, acompanha transformador.",
+        "price": 1600.0,
+        "image": "batedeira.jpg"
+    },
+    {
+        "item": "Câmera Digital Sony cybershot wx100 18.2 megapixels + cartão de 8gb + bateria extra + case",
+        "price": 400.0,
+        "image": "camera.jpg"
+    },
+    {
+        "item": "Guitarra Samick Greg Bennett design, série AV1, modelo Les Paul, acompanha pedal Marshall bluesbreaker II, fonte do pedal, case rígido, suporte de chào e acessórios.",
+        "price": 800.0,
+        "image": "guitarra.jpg"
+    },
+    {
+        "item": "Conjunto de Panelas Monaco Tramontina (5 peças) vermelha",
+        "price": 450.0,
+        "image": "panelas.jpg"
+    },
+    {
+        "item": "MacBook Pro, mid 2009, core 2 duo, 2.53GHz, 8gb RAM, 500gb HD, gravador de dvd, teclado iluminado, camera frontal, com algumas marcas de uso.",
+        "price": 2200.0,
+        "image": "macbook.jpg"
+    },
+    {
+        "item": "Violão Condor CN70, nylon, elétrico com equalizador de 5 bandas. Acompanha suporte de chão e case.",
+        "price": 700.0,
+        "image": "violao.jpg"
+    },
+    {
+        "item": "Jogo 6 Pratos Fundos",
+        "price": 40.0,
+        "image": "IMG_1888.JPG"
+    },
+    {
+        "item": "Forminhas de empada (36)",
+        "price": 18.0,
+        "image": "IMG_1889.JPG"
+    },
+    {
+        "item": "Decanter",
+        "price": 20.0,
+        "image": "IMG_1890.JPG"
+    },
+    {
+        "item": "Porta Frios (cada)",
+        "price": 10.0,
+        "image": "IMG_1892.JPG"
+    },
+    {
+        "item": "Canecas Vermelhas (cada) ou Bowl Vermelho",
+        "price": 4.0,
+        "image": "IMG_1893.JPG"
+    },
+    {
+        "item": "Petisqueiras Vermelha",
+        "price": 8.0,
+        "image": "IMG_1894.JPG"
+    },
+    {
+        "item": "Caneca Rosa",
+        "price": 3.0,
+        "image": "IMG_1895.JPG"
+    },
+    {
+        "item": "Porta Pão de Forma",
+        "price": 30.0,
+        "image": "IMG_1896.JPG"
+    },
+    {
+        "item": "Torradeira",
+        "price": 50.0,
+        "image": "IMG_1897.JPG"
+    },
+    {
+        "item": "Cafeteira",
+        "price": 50.0,
+        "image": "IMG_1898.JPG"
+    },
+    {
+        "item": "Liquidificador",
+        "price": 100.0,
+        "image": "IMG_1899.JPG"
+    },
+    {
+        "item": "Mixer",
+        "price": 40.0,
+        "image": "IMG_1900.JPG"
+    },
+    {
+        "item": "Batedeira",
+        "price": 60.0,
+        "image": "IMG_1901.JPG"
+    },
+    {
+        "item": "Liquidificador com Multiprocessador",
+        "price": 120.0,
+        "image": "IMG_1902.JPG"
+    },
+    {
+        "item": "Centro de mesa",
+        "price": 30.0,
+        "image": "IMG_1904.JPG"
+    },
+    {
+        "item": "Galheteiro",
+        "price": 10.0,
+        "image": "IMG_1905.JPG"
+    },
+    {
+        "item": "Leiteira",
+        "price": 5.0,
+        "image": "IMG_1906.JPG"
+    },
+    {
+        "item": "Quadro Chevrolet",
+        "price": 5.0,
+        "image": "IMG_1907.JPG"
+    },
+    {
+        "item": "Guirlanda",
+        "price": 20.0,
+        "image": "IMG_1908.JPG"
+    },
+    {
+        "item": "Bomboniere",
+        "price": 3.0,
+        "image": "IMG_1909.JPG"
+    },
+    {
+        "item": "Itens de enfeite pequenos (cada)",
+        "price": 2.0,
+        "image": "IMG_1910.JPG"
+    },
+    {
+        "item": "Itens de enfeite (Garrafa Amarela)",
+        "price": 8.0,
+        "image": "IMG_1910.JPG"
+    },
+    {
+        "item": "Vaso Orquidea",
+        "price": 30.0,
+        "image": "IMG_1911.JPG"
+    },
+    {
+        "item": "Guardanapo de pano (conjunto)",
+        "price": 20.0,
+        "image": "IMG_1912.JPG"
+    },
+    {
+        "item": "Dominó Mexicano",
+        "price": 60.0,
+        "image": "IMG_1913.JPG"
+    },
+    {
+        "item": "Jogo Academia",
+        "price": 40.0,
+        "image": "IMG_1914.JPG"
+    },
+    {
+        "item": "Quebra Cabeças",
+        "price": 50.0,
+        "image": "IMG_1914.JPG"
+    },
+    {
+        "item": "Porta Puzzle",
+        "price": 100.0,
+        "image": "IMG_1914.JPG"
+    },
+    {
+        "item": "Ventilador",
+        "price": 60.0,
+        "image": "IMG_1915.JPG"
+    },
+    {
+        "item": "Panela de Barro (conjunto)",
+        "price": 25.0,
+        "image": "IMG_1916.JPG"
+    },
+    {
+        "item": "Jarra de Suco",
+        "price": 15.0,
+        "image": "IMG_5461.JPG"
+    },
+    {
+        "item": "Socador de caipirinha",
+        "price": 5.0,
+        "image": "IMG_5462.JPG"
+    },
+    {
+        "item": "Porta Gelo",
+        "price": 5.0,
+        "image": "IMG_5463.JPG"
+    },
+    {
+        "item": "Jogo de banheiro",
+        "price": 20.0,
+        "image": "IMG_5464.JPG"
+    },
+    {
+        "item": "Talheres de Pizza",
+        "price": 50.0,
+        "image": "IMG_5466.JPG"
+    },
+    {
+        "item": "Copos de Martini",
+        "price": 60.0,
+        "image": "IMG_5467.JPG"
+    },
+    {
+        "item": "Abajur",
+        "price": 50.0,
+        "image": "IMG_5468.JPG"
+    },
+    {
+        "item": "Carteira Preta",
+        "price": 10.0,
+        "image": "IMG_5469.JPG"
+    },
+    {
+        "item": "Jogo Americano",
+        "price": 5.0,
+        "image": "IMG_5473.JPG"
+    },
+    {
+        "item": "Carteira",
+        "price": 20.0,
+        "image": "IMG_5474.JPG"
+    },
+    {
+        "item": "Baixelas de inox",
+        "price": 50.0,
+        "image": "IMG_5475.JPG"
+    },
+    {
+        "item": "Kit Vinho",
+        "price": 10.0,
+        "image": "IMG_5476.JPG"
+    },
+    {
+        "item": "Nebolizador",
+        "price": 100.0,
+        "image": "IMG_5478.JPG"
+    },
+    {
+        "item": "Ferro",
+        "price": 35.0,
+        "image": "IMG_5480.JPG"
+    },
+    {
+        "item": "Jogo de Copos (5 peças)",
+        "price": 14.0,
+        "image": "IMG_5481.JPG"
+    },
+    {
+        "item": "Jogo de Copos de Cerveja (8 peças)",
+        "price": 20.0,
+        "image": "IMG_5482.JPG"
+    },
+    {
+        "item": "Taças de Sobremesa (6 peças)",
+        "price": 50.0,
+        "image": "IMG_5483.JPG"
+    },
+    {
+        "item": "Taças (3 peças)",
+        "price": 10.0,
+        "image": "IMG_5484.JPG"
+    },
+    {
+        "item": "Taças de Sobremesa (5 peças)",
+        "price": 40.0,
+        "image": "IMG_5485.JPG"
+    },
+    {
+        "item": "Jogo de Copos (6 peças)",
+        "price": 15.0,
+        "image": "IMG_5486.JPG"
+    },
+    {
+        "item": "Jogo de Xícaras (6 peças)",
+        "price": 5.0,
+        "image": "IMG_5487.JPG"
+    },
+    {
+        "item": "Aparelho de jantar (19 peças)",
+        "price": 30.0,
+        "image": "IMG_5488.JPG"
+    }
+]

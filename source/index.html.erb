@@ -1,0 +1,40 @@
+---
+title: Bazar dos Cunha
+---
+
+<h1>Bazar dos Cunha</h1>
+<p><strong>Não fazemos reservas.</strong> Para maiores informações e agendamento de visita, ligar para <strong>(82) 99987-2799</strong> (Gustavo) ou <strong>(82) 99623-6430</strong> (Rosana)</p>
+
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="exampleModalLabel">Imagem</h4>
+      </div>
+      <div class="modal-body">
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="welcome">
+  <table class="table table-striped">
+    <tr>
+      <th>Item</th>
+      <th>Preço</th>
+      <th>Imagem</th>
+    </tr>
+    <%data.products.each do |product|%>
+      <tr>
+        <td><%=product.item%></td>
+        <td><strong><%=number_to_currency(product.price)%></strong></td>
+        <td>
+        <button type="button" data-toggle="modal" data-target="#exampleModal" data-image="<%=image_path(product.image)%>" data-title="<%=product.item%>">
+          <%=image_tag product.image, width: 150%>
+        </button>
+        </td>
+      </tr>
+    <%end%>
+  </table>
+</div><!-- .welcome -->
