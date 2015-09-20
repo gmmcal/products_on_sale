@@ -5,6 +5,11 @@
         "image": "ar.jpg"
     },
     {
+        "item": "Ar-condicionado de janela Consul 7500btus",
+        "price": 200.0,
+        "image": "ar_consul.jpg"
+    },
+    {
         "item": "Batedeira Kitchenaid na cor pistache, ainda na garantia, 110v, acompanha transformador.",
         "price": 1600.0,
         "image": "batedeira.jpg"
@@ -33,6 +38,11 @@
         "item": "Violão Condor CN70, nylon, elétrico com equalizador de 5 bandas. Acompanha suporte de chão e case.",
         "price": 700.0,
         "image": "violao.jpg"
+    },
+    {
+        "item": "Mesa de computador",
+        "price": 300.0,
+        "image": "IMG_5494.JPG"
     },
     {
         "item": "Jogo 6 Pratos Fundos",
@@ -137,11 +147,6 @@
     {
         "item": "Itens de enfeite pequenos (cada)",
         "price": 2.0,
-        "image": "IMG_1910.JPG"
-    },
-    {
-        "item": "Itens de enfeite (Garrafa Amarela)",
-        "price": 8.0,
         "image": "IMG_1910.JPG"
     },
     {
