@@ -70,11 +70,6 @@
         "image": "IMG_1893.JPG"
     },
     {
-        "item": "Petisqueiras Vermelha",
-        "price": 8.0,
-        "image": "IMG_1894.JPG"
-    },
-    {
         "item": "Caneca Rosa",
         "price": 3.0,
         "image": "IMG_1895.JPG"
@@ -120,11 +115,6 @@
         "image": "IMG_1905.JPG"
     },
     {
-        "item": "Leiteira",
-        "price": 5.0,
-        "image": "IMG_1906.JPG"
-    },
-    {
         "item": "Quadro Chevrolet",
         "price": 5.0,
         "image": "IMG_1907.JPG"
@@ -133,11 +123,6 @@
         "item": "Guirlanda",
         "price": 20.0,
         "image": "IMG_1908.JPG"
-    },
-    {
-        "item": "Bomboniere",
-        "price": 3.0,
-        "image": "IMG_1909.JPG"
     },
     {
         "item": "Itens de enfeite pequenos (cada)",
@@ -188,11 +173,6 @@
         "item": "Jarra de Suco",
         "price": 15.0,
         "image": "IMG_5461.JPG"
-    },
-    {
-        "item": "Socador de caipirinha",
-        "price": 5.0,
-        "image": "IMG_5462.JPG"
     },
     {
         "item": "Porta Gelo",
@@ -255,7 +235,7 @@
         "image": "IMG_5480.JPG"
     },
     {
-        "item": "Jogo de Copos (5 peças)",
+        "item": "Jogo de Copos (4 peças)",
         "price": 14.0,
         "image": "IMG_5481.JPG"
     },
@@ -283,15 +263,5 @@
         "item": "Jogo de Copos (6 peças)",
         "price": 15.0,
         "image": "IMG_5486.JPG"
-    },
-    {
-        "item": "Jogo de Xícaras (6 peças)",
-        "price": 5.0,
-        "image": "IMG_5487.JPG"
-    },
-    {
-        "item": "Aparelho de jantar (19 peças)",
-        "price": 30.0,
-        "image": "IMG_5488.JPG"
     }
 ]
