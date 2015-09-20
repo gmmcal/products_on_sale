@@ -55,11 +55,6 @@
         "image": "IMG_1889.JPG"
     },
     {
-        "item": "Decanter",
-        "price": 20.0,
-        "image": "IMG_1890.JPG"
-    },
-    {
         "item": "Porta Frios (cada)",
         "price": 10.0,
         "image": "IMG_1892.JPG"
@@ -175,11 +170,6 @@
         "image": "IMG_5461.JPG"
     },
     {
-        "item": "Porta Gelo",
-        "price": 5.0,
-        "image": "IMG_5463.JPG"
-    },
-    {
         "item": "Jogo de banheiro",
         "price": 20.0,
         "image": "IMG_5464.JPG"
@@ -213,16 +203,6 @@
         "item": "Carteira",
         "price": 20.0,
         "image": "IMG_5474.JPG"
-    },
-    {
-        "item": "Baixelas de inox",
-        "price": 50.0,
-        "image": "IMG_5475.JPG"
-    },
-    {
-        "item": "Kit Vinho",
-        "price": 10.0,
-        "image": "IMG_5476.JPG"
     },
     {
         "item": "Nebolizador",
