@@ -1,7 +1,7 @@
 [
     {
         "item": "Ar-condicionado de janela Electrolux 7500btus, retirado da caixa somente para tampar a janela",
-        "price": 800.0,
+        "price": 650.0,
         "image": "ar.jpg"
     },
     {
@@ -13,11 +13,6 @@
         "item": "Batedeira Kitchenaid na cor pistache, ainda na garantia, 110v, acompanha transformador.",
         "price": 1600.0,
         "image": "batedeira.jpg"
-    },
-    {
-        "item": "Câmera Digital Sony cybershot wx100 18.2 megapixels + cartão de 8gb + bateria extra + case",
-        "price": 400.0,
-        "image": "camera.jpg"
     },
     {
         "item": "Guitarra Samick Greg Bennett design, série AV1, modelo Les Paul, acompanha pedal Marshall bluesbreaker II, fonte do pedal, case rígido, suporte de chào e acessórios.",
@@ -90,11 +85,6 @@
         "image": "IMG_1899.JPG"
     },
     {
-        "item": "Mixer",
-        "price": 40.0,
-        "image": "IMG_1900.JPG"
-    },
-    {
         "item": "Batedeira",
         "price": 60.0,
         "image": "IMG_1901.JPG"
@@ -103,11 +93,6 @@
         "item": "Liquidificador com Multiprocessador",
         "price": 120.0,
         "image": "IMG_1902.JPG"
-    },
-    {
-        "item": "Galheteiro",
-        "price": 10.0,
-        "image": "IMG_1905.JPG"
     },
     {
         "item": "Quadro Chevrolet",
