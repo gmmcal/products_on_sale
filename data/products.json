@@ -140,11 +140,6 @@
         "image": "IMG_1914.JPG"
     },
     {
-        "item": "Ventilador",
-        "price": 60.0,
-        "image": "IMG_1915.JPG"
-    },
-    {
         "item": "Panela de Barro (conjunto)",
         "price": 25.0,
         "image": "IMG_1916.JPG"
@@ -170,11 +165,6 @@
         "image": "IMG_5467.JPG"
     },
     {
-        "item": "Abajur",
-        "price": 50.0,
-        "image": "IMG_5468.JPG"
-    },
-    {
         "item": "Carteira Preta",
         "price": 10.0,
         "image": "IMG_5469.JPG"
@@ -193,11 +183,6 @@
         "item": "Nebolizador",
         "price": 100.0,
         "image": "IMG_5478.JPG"
-    },
-    {
-        "item": "Ferro",
-        "price": 35.0,
-        "image": "IMG_5480.JPG"
     },
     {
         "item": "Jogo de Copos (4 peças)",
