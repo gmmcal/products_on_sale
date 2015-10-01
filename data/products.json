@@ -1,15 +1,5 @@
 [
     {
-        "item": "Ar-condicionado de janela Electrolux 7500btus, retirado da caixa somente para tampar a janela",
-        "price": 650.0,
-        "image": "ar.jpg"
-    },
-    {
-        "item": "Ar-condicionado de janela Consul 7500btus",
-        "price": 200.0,
-        "image": "ar_consul.jpg"
-    },
-    {
         "item": "Batedeira Kitchenaid na cor pistache, ainda na garantia, 110v, acompanha transformador.",
         "price": 1600.0,
         "image": "batedeira.jpg"
@@ -18,16 +8,6 @@
         "item": "Guitarra Samick Greg Bennett design, série AV1, modelo Les Paul, acompanha pedal Marshall bluesbreaker II, fonte do pedal, case rígido, suporte de chào e acessórios.",
         "price": 800.0,
         "image": "guitarra.jpg"
-    },
-    {
-        "item": "Conjunto de Panelas Monaco Tramontina (5 peças) vermelha",
-        "price": 450.0,
-        "image": "panelas.jpg"
-    },
-    {
-        "item": "MacBook Pro, mid 2009, core 2 duo, 2.53GHz, 8gb RAM, 500gb HD, gravador de dvd, teclado iluminado, camera frontal, com algumas marcas de uso.",
-        "price": 2200.0,
-        "image": "macbook.jpg"
     },
     {
         "item": "Violão Condor CN70, nylon, elétrico com equalizador de 5 bandas. Acompanha suporte de chão e case.",
